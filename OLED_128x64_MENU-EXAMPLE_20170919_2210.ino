@@ -1,6 +1,8 @@
 /*
-Copyright (c) by Ruebn Gaertner
-2017-09-19
+Copyright (c) by RGAE @ DevCorTec
+2023-03-01
+
+Attribution-NonCommercial 4.0 International
 */
 
 #include <Adafruit_GFX.h>
